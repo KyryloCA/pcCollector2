@@ -1,0 +1,2 @@
+ul{width:100%;flex-direction:column;justify-content:space-between;margin:0;padding:0;font-size:12px;list-style:none;display:flex}li{width:100%;display:flex}li span{border-bottom:1px solid #00f;padding-right:10px}.yellow{background-color:#ff0}.first{min-width:40px}.second,.third{min-width:200px}.ramspec{min-width:120px}ul li:nth-child(2n){background-color:#d7ccdf}
+/*# sourceMappingURL=index.9f6da912.css.map */
