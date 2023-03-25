@@ -1,0 +1,824 @@
+[
+  {
+    "value": "Dell-OptiPlex-390-DT"
+  },
+  {
+    "value": "Dell-OptiPlex-390-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-390-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-3010-DT"
+  },
+  {
+    "value": "Dell-OptiPlex-3010-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-3010-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-3020-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-3020-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-3020M"
+  },
+  {
+    "value": "Dell-OptiPlex-3040-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-3040-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-3040M"
+  },
+  {
+    "value": "Dell-OptiPlex-3050-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-3050-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-3050M"
+  },
+  {
+    "value": "Dell-OptiPlex-3060-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-3060-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-3060M"
+  },
+  {
+    "value": "Dell-OptiPlex-3070-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-3070-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-3070M"
+  },
+  {
+    "value": "Dell-OptiPlex-3080-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-3080-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-3080M"
+  },
+  {
+    "value": "Dell-OptiPlex-3090-Tower"
+  },
+  {
+    "value": "Dell-OptiPlex-3090-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-3090-M"
+  },
+  {
+    "value": "Dell-OptiPlex-3000-Tower"
+  },
+  {
+    "value": "Dell-OptiPlex-3000-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-3000-M"
+  },
+  {
+    "value": "Dell-OptiPlex-5040-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-5040-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-5050-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-5050-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-5050M"
+  },
+  {
+    "value": "Dell-OptiPlex-5060-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-5060-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-5060M"
+  },
+  {
+    "value": "Dell-OptiPlex-5070-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-5070-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-5070M"
+  },
+  {
+    "value": "Dell-OptiPlex-5080-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-5080-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-5080M"
+  },
+  {
+    "value": "Dell-OptiPlex-5090-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-5090-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-5090-M"
+  },
+  {
+    "value": "Dell-OptiPlex-5000-Tower"
+  },
+  {
+    "value": "Dell-OptiPlex-5000-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-5000-M"
+  },
+  {
+    "value": "Dell-OptiPlex-790-DT"
+  },
+  {
+    "value": "Dell-OptiPlex-790-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-790-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-790-USFF"
+  },
+  {
+    "value": "Dell-OptiPlex-7010-DT"
+  },
+  {
+    "value": "Dell-OptiPlex-7010-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-7010-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-7010-USFF"
+  },
+  {
+    "value": "Dell-OptiPlex-7020-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-7020-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-7040-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-7040-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-7040M"
+  },
+  {
+    "value": "Dell-OptiPlex-7050-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-7050-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-7050M"
+  },
+  {
+    "value": "Dell-OptiPlex-7060-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-7060-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-7060M"
+  },
+  {
+    "value": "Dell-OptiPlex-7070-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-7070-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-7070M"
+  },
+  {
+    "value": "Dell-OptiPlex-7080-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-7080-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-7080M"
+  },
+  {
+    "value": "Dell-OptiPlex-7090-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-7090-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-7090-M"
+  },
+  {
+    "value": "Dell-OptiPlex-7000-Tower"
+  },
+  {
+    "value": "Dell-OptiPlex-7000-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-7000-M"
+  },
+  {
+    "value": "Dell-OptiPlex-980-DT"
+  },
+  {
+    "value": "Dell-OptiPlex-980-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-980-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-990-DT"
+  },
+  {
+    "value": "Dell-OptiPlex-990-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-990-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-990-USFF"
+  },
+  {
+    "value": "Dell-OptiPlex-9010-DT"
+  },
+  {
+    "value": "Dell-OptiPlex-9010-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-9010-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-9010-USFF"
+  },
+  {
+    "value": "Dell-OptiPlex-9020-MT"
+  },
+  {
+    "value": "Dell-OptiPlex-9020-SFF"
+  },
+  {
+    "value": "Dell-OptiPlex-9020-USFF"
+  },
+  {
+    "value": "Dell-OptiPlex-9020M"
+  },
+  {
+    "value": "Dell-XPS-8300"
+  },
+  {
+    "value": "Dell-XPS-8500"
+  },
+  {
+    "value": "Dell-XPS-8700"
+  },
+  {
+    "value": "Dell-XPS-8900"
+  },
+  {
+    "value": "Dell-XPS-8910"
+  },
+  {
+    "value": "Dell-XPS-8930"
+  },
+  {
+    "value": "Dell-XPS-8940"
+  },
+  {
+    "value": "Dell-Inspiron-620"
+  },
+  {
+    "value": "Dell-Inspiron-620s"
+  },
+  {
+    "value": "Dell-Inspiron-660"
+  },
+  {
+    "value": "Dell-Inspiron-660s"
+  },
+  {
+    "value": "Dell-Inspiron-3647"
+  },
+  {
+    "value": "Dell-Inspiron-3847"
+  },
+  {
+    "value": "Dell-Inspiron-3250"
+  },
+  {
+    "value": "Dell-Inspiron-3268"
+  },
+  {
+    "value": "Dell-Inspiron-3470"
+  },
+  {
+    "value": "Dell-Inspiron-3471"
+  },
+  {
+    "value": "Dell-Inspiron-3650"
+  },
+  {
+    "value": "Dell-Inspiron-3668"
+  },
+  {
+    "value": "Dell-Inspiron-3670"
+  },
+  {
+    "value": "Dell-Inspiron-3671"
+  },
+  {
+    "value": "Dell-Inspiron-3880"
+  },
+  {
+    "value": "Dell-Inspiron-3881"
+  },
+  {
+    "value": "Dell-Inspiron-3891"
+  },
+  {
+    "value": "Alienware-Aurora-R3"
+  },
+  {
+    "value": "Alienware-Aurora-R4"
+  },
+  {
+    "value": "Alienware-Aurora-R5"
+  },
+  {
+    "value": "Alienware-Aurora-R6"
+  },
+  {
+    "value": "Alienware-Aurora-R7"
+  },
+  {
+    "value": "Alienware-Aurora-R8"
+  },
+  {
+    "value": "Alienware-Aurora-R9"
+  },
+  {
+    "value": "Alienware-Aurora-R11"
+  },
+  {
+    "value": "Alienware-Aurora-R12"
+  },
+  {
+    "value": "Alienware-Aurora-R13"
+  },
+  {
+    "value": "Alienware-X51"
+  },
+  {
+    "value": "Alienware-X51-R2"
+  },
+  {
+    "value": "Alienware-X51-R3"
+  },
+  {
+    "value": "Alienware-Area-51-R2"
+  },
+  {
+    "value": "Alienware-Area-51-R4"
+  },
+  {
+    "value": "Alienware-Area-51-R5"
+  },
+  {
+    "value": "Dell-G5-5090"
+  },
+  {
+    "value": "Dell-G5-5000"
+  },
+  {
+    "value": "Dell-Vostro-260"
+  },
+  {
+    "value": "Dell-Vostro-260s"
+  },
+  {
+    "value": "Dell-Vostro-270"
+  },
+  {
+    "value": "Dell-Vostro-270s"
+  },
+  {
+    "value": "Dell-Vostro-360-AIO"
+  },
+  {
+    "value": "Dell-Vostro-3800"
+  },
+  {
+    "value": "Dell-Vostro-3900"
+  },
+  {
+    "value": "Dell-Vostro-3900g"
+  },
+  {
+    "value": "Dell-Vostro-3902"
+  },
+  {
+    "value": "Dell-Vostro-460"
+  },
+  {
+    "value": "Dell-Vostro-470"
+  },
+  {
+    "value": "Dell-Vostro-3070"
+  },
+  {
+    "value": "Dell-Vostro-3250"
+  },
+  {
+    "value": "Dell-Vostro-3267"
+  },
+  {
+    "value": "Dell-Vostro-3268"
+  },
+  {
+    "value": "Dell-Vostro-3470"
+  },
+  {
+    "value": "Dell-Vostro-3471"
+  },
+  {
+    "value": "Dell-Vostro-3650"
+  },
+  {
+    "value": "Dell-Vostro-3660"
+  },
+  {
+    "value": "Dell-Vostro-3669"
+  },
+  {
+    "value": "Dell-Vostro-3667"
+  },
+  {
+    "value": "Dell-Vostro-3668"
+  },
+  {
+    "value": "Dell-Vostro-3670"
+  },
+  {
+    "value": "Dell-Vostro-3671"
+  },
+  {
+    "value": "Dell-Vostro-3681"
+  },
+  {
+    "value": "Dell-Vostro-3690"
+  },
+  {
+    "value": "Dell-Vostro-3881"
+  },
+  {
+    "value": "Dell-Vostro-3888"
+  },
+  {
+    "value": "Dell-Vostro-3890"
+  },
+  {
+    "value": "Dell-Vostro-5090"
+  },
+  {
+    "value": "Dell-Vostro-5880"
+  },
+  {
+    "value": "Dell-Vostro-5890"
+  },
+  {
+    "value": "HP-EliteDesk-800-G1-Mini"
+  },
+  {
+    "value": "HP-EliteDesk-800-G1-SFF"
+  },
+  {
+    "value": "HP-EliteDesk-800-G1-Tower"
+  },
+  {
+    "value": "HP-EliteDesk-800-G1-USDT"
+  },
+  {
+    "value": "HP-EliteDesk-800-G2-Mini"
+  },
+  {
+    "value": "HP-EliteDesk-800-G2-SFF"
+  },
+  {
+    "value": "HP-EliteDesk-800-G2-Tower"
+  },
+  {
+    "value": "HP-EliteDesk-800-G3-Mini"
+  },
+  {
+    "value": "HP-EliteDesk-800-G3-SFF"
+  },
+  {
+    "value": "HP-EliteDesk-800-G3-Tower"
+  },
+  {
+    "value": "HP-EliteDesk-800-G4-Mini"
+  },
+  {
+    "value": "HP-EliteDesk-800-G4-SFF"
+  },
+  {
+    "value": "HP-EliteDesk-800-G4-Tower"
+  },
+  {
+    "value": "HP-EliteDesk-800-G5-Mini"
+  },
+  {
+    "value": "HP-EliteDesk-800-G5-SFF"
+  },
+  {
+    "value": "HP-EliteDesk-800-G5-Tower"
+  },
+  {
+    "value": "HP-EliteDesk-800-G6-Mini"
+  },
+  {
+    "value": "HP-EliteDesk-800-G6-SFF"
+  },
+  {
+    "value": "HP-EliteDesk-800-G6-Tower"
+  },
+  {
+    "value": "HP-EliteDesk-800-G8-Mini"
+  },
+  {
+    "value": "HP-EliteDesk-800-G8-SFF"
+  },
+  {
+    "value": "HP-EliteDesk-800-G8-Tower"
+  },
+  {
+    "value": "HP-ProDesk-400-G1-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-400-G1-Mini"
+  },
+  {
+    "value": "HP-ProDesk-400-G1-SFF"
+  },
+  {
+    "value": "HP-ProDesk-400-G2-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-400-G2-Mini"
+  },
+  {
+    "value": "HP-ProDesk-400-G2-SFF"
+  },
+  {
+    "value": "HP-ProDesk-400-G2.5-SFF"
+  },
+  {
+    "value": "HP-ProDesk-400-G3-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-400-G3-Mini"
+  },
+  {
+    "value": "HP-ProDesk-400-G3-SFF"
+  },
+  {
+    "value": "HP-ProDesk-400-G4-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-400-G4-Mini"
+  },
+  {
+    "value": "HP-ProDesk-400-G4-SFF"
+  },
+  {
+    "value": "HP-ProDesk-400-G5-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-400-G5-Mini"
+  },
+  {
+    "value": "HP-ProDesk-400-G5-SFF"
+  },
+  {
+    "value": "HP-ProDesk-400-G6-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-400-G6-Mini"
+  },
+  {
+    "value": "HP-ProDesk-400-G6-SFF"
+  },
+  {
+    "value": "HP-ProDesk-480-G1-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-480-G2-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-480-G3-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-480-G4-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-480-G5-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-480-G6-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-490-G1-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-490-G2-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-490-G3-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-600-G1-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-600-G1-Mini"
+  },
+  {
+    "value": "HP-ProDesk-600-G1-SFF"
+  },
+  {
+    "value": "HP-ProDesk-600-G2-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-600-G2-Mini"
+  },
+  {
+    "value": "HP-ProDesk-600-G2-SFF"
+  },
+  {
+    "value": "HP-ProDesk-600-G3-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-600-G3-Mini"
+  },
+  {
+    "value": "HP-ProDesk-600-G3-SFF"
+  },
+  {
+    "value": "HP-ProDesk-600-G4-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-600-G4-Mini"
+  },
+  {
+    "value": "HP-ProDesk-600-G4-SFF"
+  },
+  {
+    "value": "HP-ProDesk-600-G5-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-600-G5-Mini"
+  },
+  {
+    "value": "HP-ProDesk-600-G5-SFF"
+  },
+  {
+    "value": "HP-ProDesk-600-G6-Microtower"
+  },
+  {
+    "value": "HP-ProDesk-600-G6-Mini"
+  },
+  {
+    "value": "HP-ProDesk-600-G6-SFF"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-E73-Small"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-E73-Tower"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-Edge-72-Small"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-Edge-72-Tower"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M72e-Small"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M72e-Tiny"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M72e-Tower"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M73-Small"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M73-Tiny"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M73-Tower"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M82-Small"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M82-Tower"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M83-Small-Pro"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M83-Tiny"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M83-Tower"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M92-Small"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M92-Tiny"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M92-Tower"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M92p-Small"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M92p-Tiny"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M92p-Tower"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M93-Small-Pro"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M93-Tiny"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M93-Tower"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M93p-Small-Pro"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M93p-Tiny"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M93p-Tower"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M600-Tiny"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M700-Tower"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M700-SFF"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M700-Tiny"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M800-Tower"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M800-Small"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M900-Tower"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M900-Small"
+  },
+  {
+    "value": "Lenovo-ThinkCentre-M900-Tiny"
+  }
+]

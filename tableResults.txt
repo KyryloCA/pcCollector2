@@ -1,0 +1,79 @@
+
+      <2017<B250<Dell-OptiPlex-3050M<2/2400 MT/s/32 GB<SODIMM DDR4-2133/2400 <Intel Gen6&7 i3/i5; Pentium; Celeron;<M.2 2280/2242 M-key (PCIe 3.0 x2, NVMe) ; M.2 2230 (WiFi/BT)  
+    
+      <2018<H370<Dell-OptiPlex-3060M<2/2666 MT/s/32 GB<SODIMM DDR4-2400/2666<Intel Gen8 i3/i5/i7; Pentium; Celeron;<M.2 2280/2230 M-key (PCIe 2.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2019<H370<Dell-OptiPlex-3070M<2/2666 MT/s/32 GB<SODIMM DDR4-2400/2666<Intel Gen8&9 i3/i5/i7; Celeron; Pentium;<M.2 2280/2230 M-key (PCIe 2.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2020<B460<Dell-OptiPlex-3080M<2/2666 MT/s/64 GB<SODIMM DDR4-2666<Intel Gen10 i3/i5/i7; Pentium; Celeron;<M.2 2280/2230 M-key (PCIe 3.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2021<Q470<Dell-OptiPlex-3090-M<2/2933 MT/s/64 GB<SODIMM DDR4-2666/2933<Intel Gen10 i3/i5/i7; Pentium; Celeron;<M.2 2280/2230 M-key (PCIe 3.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2022<B660<Dell-OptiPlex-3000-M<2/3200 MT/s/64 GB<SODIMM DDR4-3200<Intel Gen 12 T i3/i5/i7; Celeron; Pentium<M.2 2230/2280 (PCIe 3.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2017<Q270<Dell-OptiPlex-5050M<2/2400 MT/s/32 GB<SODIMM DDR4-2133/2400 <Intel Gen6&7 i3/i5/i7; Pentium; <M.2 2280/2230 M-key (PCIe 3.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2018<Q370<Dell-OptiPlex-5060M<2/2666 MT/s/32 GB<SODIMM DDR4-2400/2666<Intel Gen8 i3/i5/i7; Pentium;<M.2 2280/2230 M-key (PCIe 3.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2019<Q370<Dell-OptiPlex-5070M<2/2666 MT/s/32 GB<SODIMM DDR4-2400/2666<Intel Gen8&9 i3/i5/i7; Celeron; Pentium;<M.2 2280/2230 M-key (PCIe 3.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2020<Q470<Dell-OptiPlex-5080M<2/2933 MT/s/64 GB<SODIMM DDR4-2666/2933<Intel Gen10 i3/i5/i7; Pentium<M.2 2280/2230 M-key (PCIe 3.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2021<Q570<Dell-OptiPlex-5090-M<2/3200 MT/s/64 GB<DIMM DDR4-2666/2933/3200<Intel Gen10&11 i3/i5/i7;<M.2 2280/2230 M-key (PCIe 3.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2022<Q670<Dell-OptiPlex-5000-M<2/3200 MT/s/64 GB<SODIMM DDR4-3200<Intel Gen 12 T i3/i5/i7/i9;<(2x)M.2 2230/2280 (PCIe 4.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2015<Q170<Dell-OptiPlex-7040M<2/2133 MT/s/32 GB<SODIMM DDR4-2133<Intel Gen6 i3/i5/i7<M.2 2280 M-key (PCIe 3.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2017<Q270<Dell-OptiPlex-7050M<2/2400 MT/s/32 GB<SODIMM-2133/2400<Intel Gen6&7 i3/i5/i7; <M.2 2280/2242 M-key (PCIe 3.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2018<Q370<Dell-OptiPlex-7060M<2/2666 MT/s/32 GB<SODIMM DDR4-2400/2666<Intel Gen8 i3/i5/i7; Celeron; Pentium;<M.2 2280/2230 M-key (PCIe 3.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2019<Q370<Dell-OptiPlex-7070M<2/2666 MT/s/32 GB<SODIMM DDR4-2400/2666<Intel Gen8&9 i3/i5/i7; Celeron; Pentium;<M.2 2280/2230 M-key (PCIe 3.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2020<Q470<Dell-OptiPlex-7080M<2/2933 MT/s/64 GB<SODIMM DDR4-2666/2933<Intel Gen10 i3/i5/i7/i9;<M.2 2280/2230 M-key (PCIe 3.0 x4, NVMe); M.2 2280 M-key (PCIe); M.2 2230 (WiFi/BT)  
+    
+      <2021<Q570<Dell-OptiPlex-7090-M<2/3200 MT/s/64 GB<SODIMM DDR4-2666/2933/3200<Intel Gen10&11 i3/i5/i7/i9;<M.2 2280/2230 M-key (PCIe 3.0 x4, NVMe); M.2 2280/2230 M-key (PCIe); M.2 2230 (WiFi/BT)  
+    
+      <2022<Q670<Dell-OptiPlex-7000-M<2/4800 MT/s/64 GB<SODIMM DDR5-4800<Intel Gen 12 i3/i5/i7/i9;<(2x)M.2 2230/2280 (PCIe 4.0 x4, NVMe); M.2 2230 (WiFi/BT)  
+    
+      <2014<Q87<HP-EliteDesk-800-G1-Mini<2/1600 MT/s/16 GB<SODIMM DDR3-1600 <Intel Gen4 i3/i5/i7; Celeron; Pentium;<M.2 2280 M-key (PCIe); M.2 2230 (WiFi/BT) 
+    
+      <2015<Q170<HP-EliteDesk-800-G2-Mini<2/2133 MT/s/32 GB<SODIMM DDR4-2133<Intel Gen6 i3/i5/i7; Celeron; Pentium;<M.2 2280 M-key (PCIe x4); M.2 2230 (WiFi/BT); 
+    
+      <2017<Q270<HP-EliteDesk-800-G3-Mini<2/2400 MT/s/32 GB<SODIMM DDR4-2400<Intel Gen6&7 i3/i5/i7; Celeron; Pentium;<M.2 2280 M-key (PCIe x4); M.2 2230 (WiFi/BT); 
+    
+      <2018<Q370<HP-EliteDesk-800-G4-Mini<2/2666 MT/s/32 GB<SODIMM DDR4-2666<Intel Gen8 i3/i5/i7; Celeron; Pentium;<(2x) M.2 2280/2230 M-key (PCIe x4); M.2 2230 (WiFi/BT); 
+    
+      <2019<Q370<HP-EliteDesk-800-G5-Mini<2/2666 MT/s/64 GB<SODIMM DDR4-2666<Intel Gen8&9 i3/i5/i7; Celeron; Pentium;<(2x) M.2 2280/2230 M-key (PCIe x4); M.2 2230 (WiFi/BT); 
+    
+      <2020<Q470 <HP-EliteDesk-800-G6-Mini<2/2933 MT/s/64 GB<SODIMM DDR4-2933<Intel Gen10 i3/i5/i7/i9; Celeron; Pentium;<(2x) M.2 2280/2230 M-key (PCIe x4); M.2 2230 (WiFi/BT); 
+    
+      <2021<Q570 <HP-EliteDesk-800-G8-Mini<2/3200 MT/s/128 GB<SODIMM DDR4-3200<Intel Gen11 i5/i7/i9;<M.2 2280 M-key (PCIe 3.0 x4); M.2 2280M-key (PCIe 4.0 x4); M.2 2230 (WiFi/BT); 
+    
+      <2014<H81<HP-ProDesk-400-G1-Mini<2/1600 MT/s/16 GB<SODIMM DDR3-1600 <Intel Gen4 i3/i5/i7; Celeron; Pentium;<M.2 2280 M-key (PCIe); M.2 2230 (WiFi/BT) 
+    
+      <2016<H110 <HP-ProDesk-400-G2-Mini<2/2133 MT/s/32 GB<SODIMM DDR4-2133<Intel Gen6 i3/i5/i7; Celeron; Pentium;<M.2 2280 M-key (PCIe); M.2 2230 (WiFi/BT) 
+    
+      <2016<H270 <HP-ProDesk-400-G3-Mini<2/2400 MT/s/32 GB<SODIMM DDR4-2400<Intel Gen6&7 i3/i5/i7; Celeron; Pentium;<M.2 2280 M-key (PCIe x4); M.2 2230 (WiFi/BT)  
+    
+      <2018<B360<HP-ProDesk-400-G4-Mini<2/2400 MT/s/32 GB<SODIMM DDR4-2400<Intel Gen8 i3/i5/i7; Celeron; Pentium;<M.2 2280/2230 M-key (PCIe x4); M.2 2230 (WiFi/BT)  
+    
+      <2018<B360<HP-ProDesk-400-G5-Mini<2/2666 MT/s/64 GB<SODIMM DDR4-2666<Intel Gen8 i3/i5/i7; Celeron; Pentium;<M.2 2280/2230 M-key (PCIe x4); M.2 2230 (WiFi/BT)  
+    
+      <2020<Q470<HP-ProDesk-400-G6-Mini<2/3200 MT/s/64 GB<SODIMM DDR4-3200<Intel Gen10 i3/i5/i7; Celeron; Pentium;<M.2 2280 M-key (PCIe x4); M.2 2230 (WiFi/BT)  
+    
+      <2014<Q85<HP-ProDesk-600-G1-Mini<2/1600 MT/s/16 GB<SDIMM DDR3-1600<Intel Gen4 i3/i5/i7; Celeron; Pentium;<M.2 2280 M-key (PCIe x4); M.2 2230 (WiFi/BT)  
+    
+      <2016<Q150<HP-ProDesk-600-G2-Mini<2/2133 MT/s/32 GB<SODIMM DDR4-2133<Intel Gen6 i3/i5/i7; Celeron; Pentium;<M.2 2280 M-key (PCIe x4); M.2 2230 (WiFi/BT); 
+    
+      <2017<Q270<HP-ProDesk-600-G3-Mini<2/2400 MT/s/32 GB<SODIMM DDR4-2400<Intel Gen6&7 i3/i5/i7; Celeron; Pentium;<M.2 2280/2230 M-key (PCIe x4); M.2 2230 (WiFi/BT); 
+    
+      <2018<Q370<HP-ProDesk-600-G4-Mini<2/2666 MT/s/32 GB<SODIMM DDR4-2666<Intel Gen8 i3/i5/i7; Celeron; Pentium;<(2x) M.2 2280/2230 M-key (PCIe x4); M.2 2230 (WiFi/BT); 
+    
+      <2018<Q370<HP-ProDesk-600-G5-Mini<2/2666 MT/s/64 GB<SODIMM DDR4-2666<Intel Gen8&9 i3/i5/i7; Celeron; Pentium;<(2x) M.2 2280/2230 M-key (PCIe x4); M.2 2230 (WiFi/BT); 
+    
+      <2020<Q470<HP-ProDesk-600-G6-Mini<2/3200 MT/s/64 GB<SODIMM DDR4-3200<Intel Gen10 i3/i5/i7; Celeron; Pentium;<(2x) M.2 2280/2230 M-key (PCIe x4); M.2 2230 (WiFi/BT); 
+    
+      <2015<Q170<Lenovo-ThinkCentre-M900-Tiny<2/2133 MT/s/32 GB<SODIMM DDR4-2133<Intel Gen6 i3/i5/i7; Celeron; Pentium;<M.2 2280/2242 M-key (PCIe x4); M.2 2230 (WiFi/BT); 
+    

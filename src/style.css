@@ -1,0 +1,38 @@
+ul {
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  list-style: none;
+}
+li {
+  display: flex;
+  width: 100%;
+}
+li span {
+  padding-right: 10px;
+  border-bottom: 1px solid blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.first {
+  min-width: 40px;
+}
+.second {
+  min-width: 200px;
+}
+.third {
+  min-width: 200px;
+}
+.ramspec {
+  min-width: 120px;
+}
+ul li:nth-child(2n) {
+  background-color: rgb(215, 204, 223);
+}
